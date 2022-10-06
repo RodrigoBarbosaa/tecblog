@@ -1,0 +1,85 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    background: #e6e6e6;
+}
+#cabeçalho {
+    background: #f7b600;
+    text-align: center;
+    padding: 10px;
+}
+#arealogo {
+    padding: 10px;
+}
+#links {
+    padding: 15px;
+}
+h1 {
+    color: #4e4e4e;
+    font-size: 2.5em;
+}
+h2 {
+    color: #f7b600;
+    font: normal 20pt Arial;
+}
+h3 {
+    color:#4e4e4e;
+    background: #cccbcb;
+    width: 160px;
+    
+}
+.branco {
+    color: #ffff;
+}
+.links {
+    border: 1px solid #f7b600;
+    padding: 10px;
+    margin: 10px;
+    text-decoration: none;
+    font: normal 12pt Arial;
+    color: white;
+}
+#cabeçalho a:link, #cabeçalho a:visited {
+    color: white;
+}
+#cabeçalho a:hover {
+    color:white;
+    background: #c48f00;
+    margin-bottom: 10px;
+}
+#areadoblog {
+    width: 920px;
+    margin: 0 auto;
+}
+#CaixaPrincipal, #caixaprincipal2{
+    margin-top: 10px;
+    background: white;
+    width: 660px; 
+    float: left;
+}
+#conteudo, #conteudo2 {
+    padding: 10px;
+}
+#caixalateral1, #caixalateral2 {
+    background: white;
+    width: 240px;
+    margin: 10px;
+    float: right;
+
+}
+#postagens, #categorias {
+    padding: 5px;
+}
+.links1 {
+    color: #f7b600;
+    text-decoration: none;
+    display: block;
+    font: Arial;
+    margin-top: 5px;
+}
+
+p {
+    margin-top: 5px;
+}
